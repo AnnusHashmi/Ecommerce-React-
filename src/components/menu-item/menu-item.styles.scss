@@ -23,7 +23,7 @@
   }
 
   &.large {
-    height: 380px;
+    height: 500px;
   }
 
   &:first-child {
@@ -42,7 +42,7 @@
   }
 
   .content {
-    height: 90px;
+    height: 120px;
     padding: 0 25px;
     display: flex;
     flex-direction: column;
@@ -56,13 +56,13 @@
     .title {
       font-weight: bold;
       margin: 0 6px 0;
-      font-size: 22px;
+      font-size: 24px;
       color: #4a4a4a;
     }
 
     .subtitle {
       font-weight: lighter;
-      font-size: 16px;
+      font-size: 18px;
     }
   }
 }
